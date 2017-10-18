@@ -1,0 +1,22 @@
+{
+  "name": "content_scraper",
+  "version": "1.0.0",
+  "description": "Content Scraper project",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinPelayo/Content_Scraper.git"
+  },
+  "author": "martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MartinPelayo/Content_Scraper/issues"
+  },
+  "homepage": "https://github.com/MartinPelayo/Content_Scraper#readme",
+  "dependencies": {
+    "csv-file-creator": "^1.0.7"
+  }
+}
