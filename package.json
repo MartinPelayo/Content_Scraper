@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MartinPelayo/Content_Scraper#readme",
   "dependencies": {
-    "csv-file-creator": "^1.0.7"
+    "jsonexport": "^2.0.11",
+    "x-ray": "^2.3.2"
   }
 }
