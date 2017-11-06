@@ -1,5 +1,5 @@
 const Xray = require('x-ray'); 
-const x = Xray(); 
+const x = Xray(); //GitHub page is updated info about package
 const fs = require('fs');
 const jsonexport = require('jsonexport');
 
